@@ -87,4 +87,4 @@ Characterization of long non-coding RNAs during compatible and incompatible poll
 
 ### Contact
 
-[nischaypatel4\@gmail.com](mailto:nischaypatel4@gmail.com){.email}
+[nischaypatel4\@gmail.com](mailto:nischaypatel4@gmail.com)
