@@ -83,7 +83,7 @@ Other technical details are provided inside each stage's own script/documentatio
 
 ### Repository Citation
 
-Characterization of long non-coding RNAs during compatible and incompatible pollination in Arabidopsis thaliana [Internet]. [cited 2026 July 8]. Available from: <https://github.com/nischaypatel4/LncRNA-Analysis-Pollination-Arabidopsis>
+Patel Nischay, Characterization of long non-coding RNAs during compatible and incompatible pollination in Arabidopsis thaliana. 2026. Github repository, <https://github.com/nischaypatel4/LncRNA-Analysis-Pollination-Arabidopsis> 
 
 ### Contact
 
