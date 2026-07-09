@@ -18,7 +18,7 @@
 #
 # -----------------------------------------------------------------------------
 # INPUTS (exact file names, read in the order used below):
-#   1) tair10_gtf.gtf          — TAIR10 reference annotation GTF
+#   1) tair10_gtf.gtf          — TAIR10 (Araport11) reference annotation GTF
 #   2) gffcompare.gtf          — gffcompare-assembled transcriptome GTF
 #                                (used twice: Section 2 and Section 4)
 #   3) trackingfile.tsv        — gffcompare .tracking file (no header row)
